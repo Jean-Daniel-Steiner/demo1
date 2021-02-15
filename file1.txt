@@ -1,1 +1,3 @@
 Initiale Version erstellt
+Erweitert auf Version 1.0
+
